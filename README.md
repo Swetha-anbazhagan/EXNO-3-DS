@@ -291,6 +291,7 @@ pd.concat([CC,new],axis = 1)
 <img width="677" height="442" alt="image" src="https://github.com/user-attachments/assets/9677b947-23dc-42f1-a149-dee1de4240da" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+      Thus, we have successfully performed Feature Encoding and Transformation process and saved the data to a file.
 
        
